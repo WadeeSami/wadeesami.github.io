@@ -68,8 +68,8 @@ __Python, Django and flask web frameworks__
 
 ## Education
 
-`2012-2-17`
-__An Najah National University - Nablus - Palestine.__ B.Sc. in Computer Engineer / 2012 – 2017
+`2012-2017`
+__An Najah National University - Nablus - Palestine.__ B.Sc. in Computer Engineer
 
 
 
