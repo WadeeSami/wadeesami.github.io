@@ -1,86 +1,85 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Wadee Abuzant's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Wadee Abuzant
+Software Engineer, Technical Team Lead
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<!-- <div id="webaddress">
+<a href="isaac@applesdofall.org">wadee.abuzant@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+</div> -->
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Technical Team Lead at Foothill Solutions
 
 
-### Research interests
+## Summary
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Experienced senior software engineer and team leader with a strong background in backend development, particularly in the startup environment. I have successfully led multiple teams, fostering collaboration and driving the delivery of high-quality software solutions. With a focus on system design, refactoring, and clean code practices, I have a knack for optimizing performance and designing scalable solutions for complex problems. I thrive in fast-paced environments, embracing challenges and leveraging my expertise to guide teams towards success. I am passionate about mentoring and empowering team members, fostering their professional growth, and creating a positive and productive work culture. My commitment to staying up-to-date with emerging technologies and industry trends allows me to deliver innovative solutions and drive continuous improvement. I am excited to bring my leadership skills, technical acumen, and passion for building exceptional software to contribute to the success of a dynamic and forward-thinking organization.
+
+
+### Experience
+
+`Foothill Technologies`
+
+- Leading the backend team for a startup, my responsibilites lied in helping to grow team members, design scalable solution to fix performance issues in the system. and enhance code base and refactor the code base.
+- working with another small team to achieve event-based architecture and to provide CI/CD.
+
+`AUI (Augmented Intelligence)`
+
+- Leading the backend team (6 members), including prioritization, code reviews and technical design.
+- Developing Web Services, Microservices using node js, express js and Typescript
+- Design Microservices with event driven architecture approach.
+- Work with Mongodb.
+- Work heavily with data and machine learning teams on designing data and ML models and with implementing integrations - and ETLs.
+- Responsible for training and onboarding new engineers joining the team.
+
+
+`Asal Technology`
+
+I spent 2 years at Asal, my role was to work as a full-stack engineer with primary focus on backend, I was responsible for developing a medical web app, with more than 400K users, mainly with python and django.
+
+`ZetaTech soltuions`
+
+I spent 2 years at ZetaTech. a startup that specialized in developing medical applications in USA, I was responsible for developing Web Applications, with python and django. I also worked slightly on iOS application development (objective C).
+
+
+### Professional Skills and Frameworks
+
+
+__MicroServices__
+
+__Containers and Docker__
+
+__Python__
+
+__Typescript and Javascript__
+
+__Nodejs__
+
+__Databases (Relational and NoSql Databases)__
+
+__Python, Django and flask web frameworks__
+
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2012-2-17`
+__An Najah National University - Nablus - Palestine.__ B.Sc. in Computer Engineer / 2012 – 2017
 
 
 
-## Awards
+## Education
 
-`2012`
-President, *Royal Society*, London, UK
+`Arabic`
+__Native speaker__
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`English`
+__Fluent (Speaking, Reading, Writing)__
 
 
 
